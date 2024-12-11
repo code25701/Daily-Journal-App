@@ -1,0 +1,4 @@
+Designed to only have one class with multiple methods
+Everything else is run in a main file
+There are three methods: addEntry, viewEntry, and removeEntry
+Two array lists are used along with a couple integer variables
